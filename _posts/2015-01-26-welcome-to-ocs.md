@@ -5,7 +5,7 @@ title:  "Welcome to OCS!"
 Day 1!  We are finally on the ground and running.  Today was a very exciting day for all of us and a lot of things were covered.  We ended up lecturing for the entire day...  all 8 hours of class.  Soo..  Exciting but long day.  However, it was a very fruitful day for all of us I think.  I can definitely say that I learned a thing or two today.  Here is some of the things I learned:
 
 1. Spirit Animal seems to be synonomous with favorite animal.  Heh.
-2. Git is an incredibly powerful tool that allows us to version control files and folders for easy sharing and reverting.  This happens to multiple steps.
+2. Git is an incredibly powerful tool that allows us to version control files and folders for easy sharing and reverting.  This happens in multiple steps.
   a. Initializing your working directory.  This allows git to "watch" your folder for changes
   b. Staging with "git add" to take your changes to a staging area that tells git to snapshot the files to ready for commiting
   c. Commiting your changes to the repository.  Git will ask for a commit message to track your different versions on this stage as well.
